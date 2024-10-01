@@ -26,8 +26,9 @@ class Developer:
 
 </td>
 <td>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTQzamEyeTVkbW1tbmEzdGduNjduZWdyYnNldnhsa2o1Z3ptOWkzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KKB54xpucNE4M/giphy.webp" alt="Studio Ghibli Character" width="370px"/>
+  <img src="https://media.giphy.com/media/IxlnMFrOLVNp6/giphy.webp" alt="My Neighbor Totoro" width="370px"/>
 </td>
+
 
 
 
