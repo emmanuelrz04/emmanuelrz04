@@ -16,7 +16,7 @@ class Developer:
         if curious:
             print(f"Hello! My name is {self."Emmanuel Araujo"}. I'm proficient in:")
             for tech in self.technologies:
-                print(f"🔧 {"Java, Python, Angular, Spring boot, Sql, C#"}")
+                print(f"🔧 {"Java, Python, Kotlin, Spring boot, Sql, C#"}")
             print("\nBesides coding, I excel at:")
             for skill in self.soft_skills:
                 print(f"🌟 {"Communicative", "TimeManagement", "Teamwork"}")
