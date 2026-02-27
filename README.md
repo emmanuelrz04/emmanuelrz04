@@ -1,62 +1,45 @@
 <div align="center">
-    <div align="center">
-  <h3>🖥️Um pouco sobre mim🥰</h3> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-</div>
+  <div align="center">
+    <h3>🖥️ Um pouco sobre mim 🥰</h3> 
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+  </div>
 
-
-<div style="display: flex; align-items: center;">
-
-<table>
-  <tr>
-    <td>
-
-```javascript
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <table>
+      <tr>
+        <td>
+          <pre>
 class Developer:
     def wanna_know_me(self, curious=True):
         if curious:
-            print(f"Hello! My name is {self."Emmanuel Araujo"}. I'm proficient in:")
-            for tech in self.technologies:
-                print(f"🔧 {"Java, Python, Kotlin, Spring boot, Sql, C#"}")
+            print(f"Hello! My name is Emmanuel Araujo. I'm proficient in:")
+            print("🔧 Java, Python, Kotlin, Spring Boot, SQL, C#")
             print("\nBesides coding, I excel at:")
-            for skill in self.soft_skills:
-                print(f"🌟 {"Communicative", "TimeManagement", "Teamwork"}")
+            print("🌟 Communicative, Time Management, Teamwork")
         else:
             print("Sorry, maybe next time! :c")
-```
+          </pre>
+        </td>
+        <td>
+          <img src="https://media.giphy.com/media/IxlnMFrOLVNp6/giphy.webp" alt="My Neighbor Totoro" width="370px"/>
+        </td>
+      </tr>
+    </table>
+  </div>
 
-</td>
-<td>
-  <img src="https://media.giphy.com/media/IxlnMFrOLVNp6/giphy.webp" alt="My Neighbor Totoro" width="370px"/>
-</td>
+  <br>
 
-
-
-
-
-
-  <table>
-      <div align="center" style="margin-top: 20px;">
-        <h3>🖥️ Estatísticas rápidas</h3>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelrz04&show_icons=true&theme=holi&locale=en&layout=compact" alt="emmanuelrz04" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=emmanuelrz04&show_icons=true&theme=holi&locale=en" alt="emmanuelrz04" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Emmanuel-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">        
-  <img align="center" alt="Emmanuel-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Emmanuel-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">          
-  <img align="center" alt="Emmanuel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Emmanuel-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Emmanuel-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
-  <img align="center" alt="Emmanuel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Emmanuel-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <!-- ÍCONES DOS FRAMEWORKS NA PARTE DE BAIXO -->
+  <div align="center">
+    <h3>🛠️ Tecnologias que uso</h3>
+    <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40" width="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" width="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="40" width="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" width="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" width="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="50">
+  </div>
 </div>
