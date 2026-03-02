@@ -3,7 +3,7 @@
   <div>
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70">
     <h1>Emmanuel Araujo</h1>
-    <h3>Backend Developer | Python • Flask • Django • SQL </h3>
+    <h3>Full-Stack Developer | Python • Flask • Django • SQL </h3>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C3E50&center=true&vCenter=true&width=435&lines=Building+secure+web+applications;Passionate+about+clean+code;Always+learning+new+technologies" alt="Typing SVG" />
   </div>
 
