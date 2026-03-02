@@ -41,7 +41,7 @@
           <h3>🏆 Realizações</h3>
           <p>🥇 <strong>1º lugar no Inov5 – Condomínio Digital 4.0</strong><br>Coliderança de equipe de 5 pessoas, apresentação para profissionais da Lenovo</p>
           <p>🌍 <strong>Participante do NASA Space Apps Challenge 2024</strong><br>Hackathon internacional focado em soluções tecnológicas</p>
-          <p>🌍 <strong>NASA Space Apps Challenge 2024</strong><br>Integrante de equipe em hackathon global da NASA, desenvolvendo protótipo funcional para solução de desafio relacionado a [seu tema, se lembrar]. Experiência em ideação rápida, trabalho em equipe e apresentação de soluções inovadoras</p>
+          <p>🌍 <strong>NASA Space Apps Challenge 2024</strong><br>Integrante de equipe em hackathon global da NASA, desenvolvendo protótipo funcional para solução de desafio relacionado a PACE in the classrom. Experiência em ideação rápida, trabalho em equipe e apresentação de soluções inovadoras</p>
         </div>
       </td>
       <td style="padding: 20px; vertical-align: top; width: 40%;">
