@@ -51,7 +51,7 @@
           <h3>📍 Localização</h3>
           <p>🌎 Recife, Brazil</p>
           <h3>📬 Contato</h3>
-          <p>🔗 <a href="mailto:emmanuelricardo04@gmail.com">emmanuelricardo04@gmail.com</a></p>
+          <p>🔗<a href="mailto:emmanuelricardo04@gmail.com">emmanuelricardo04@gmail.com</a></p>
           <p>🔗 <a href="https://github.com/emmanuelrz04">github.com/emmanuelrz04</a></p>
           <p>🔗 <a href="https://linkedin.com/in/emmanuel-araujo-416203380">linkedin.com/in/emmanuel-araujo</a></p>
           <h3>🌎 Idiomas</h3>
