@@ -38,7 +38,7 @@
           <p>🔹 <a href="https://maindindev.pythonanywhere.com">🌐 Live demo</a> | <a href="https://github.com/emmanuelrz04/PythonWeb">📁 Código fonte</a></p>
           <hr style="border: 1px dashed #dee2e6;">
           <!--PostRealizações-->
-          <h3>🏆 Realizações</h3>
+          <h3>🏆 Projetos práticos</h3>
           <p>🥇 <strong>1º lugar no Inov5 – Condomínio Digital 4.0</strong><br>Coliderança de equipe de 5 pessoas, apresentação para profissionais da Lenovo</p>
           <p>🌍 <strong>Participante do NASA Space Apps Challenge 2024</strong><br>Hackathon internacional focado em soluções tecnológicas</p>
           <p>🌍 <strong>NASA Space Apps Challenge 2024</strong><br>Integrante de equipe em hackathon global da NASA, desenvolvendo protótipo funcional para solução de desafio relacionado à estudos sobre vida marinha: "PACE na sala de aula". Experiência em ideação rápida, trabalho em equipe e apresentação de soluções inovadoras</p>
