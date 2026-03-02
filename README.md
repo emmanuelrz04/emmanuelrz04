@@ -112,7 +112,6 @@
   <!-- MENSAGEM FINAL -->
   <div>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-    <h4>⚡ Sempre aberto a novos desafios e conexões! ⚡</h4>
   </div>
 
   <br>
