@@ -19,7 +19,7 @@
           <h2>📋 Sobre mim</h2>
           <p>
             <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-            <strong>Backend Developer em formação</strong> com foco em Python e Flask.
+            <strong>Full-Stack Developer em formação</strong> com foco em Python e Flask.
           </p>
           <p>
             <img src="https://media.giphy.com/media/jSKBmKkio2m0i7pBog/giphy.gif" width="25"> 
