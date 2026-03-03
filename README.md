@@ -1,17 +1,12 @@
 <div align="center">
-  <!-- CABEÇALHO ANIMADO -->
   <div>
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70">
     <h1>Emmanuel Araujo</h1>
     <h3>Full-Stack Developer | Python • Flask • Django • SQL </h3>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C3E50&center=true&vCenter=true&width=435&lines=Building+secure+web+applications;Passionate+about+clean+code;Always+learning+new+technologies" alt="Typing SVG" />
   </div>
-
   <br>
-
   <br>
-
-  <!-- SOBRE MIM EM CARDS -->
   <table style="margin: 0 auto; max-width: 1000px;">
     <tr>
       <td style="padding: 20px; vertical-align: top; width: 60%;">
@@ -37,7 +32,6 @@
           <p>🔹 Layout responsivo e deploy em produção</p>
           <p>🔹 <a href="https://maindindev.pythonanywhere.com">🌐 Live demo</a> | <a href="https://github.com/emmanuelrz04/PythonWeb">📁 Código fonte</a></p>
           <hr style="border: 1px dashed #dee2e6;">
-          <!--PostRealizações-->
           <h3>🏆 Experiências práticas</h3>
           <p>🥇 <strong>1º lugar no Inov5 – Condomínio Digital 4.0</strong><br>Coliderança de equipe de 5 pessoas, apresentação para profissionais da Lenovo</p>
           <p>🌍 <strong>NASA Space Apps Challenge 2024</strong><br>Integrante de equipe em hackathon global da NASA, desenvolvendo protótipo funcional para solução de desafio relacionado à estudos sobre vida marinha: "PACE na sala de aula". Experiência em ideação rápida, trabalho em equipe e apresentação de soluções inovadoras</p>
@@ -62,10 +56,7 @@
       </td>
     </tr>
   </table>
-
   <br>
-
-  <!-- TECNOLOGIAS COM EMOJIS -->
   <div>
     <h2>🛠️ Stack Tecnológica</h2>
     <br>
@@ -95,10 +86,7 @@
     <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white">
     <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=kanban&logoColor=white">
   </div>
-
   <br>
-
-  <!-- ESTATÍSTICAS EXTRAS -->
   <div>
     <h2>📊 GitHub Analytics</h2>
     <br>
@@ -106,12 +94,8 @@
     <br>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmanuelrz04&theme=github-light&hide_border=true">
   </div>
-
   <br>
-
-  <!-- MENSAGEM FINAL -->
   <div>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
   </div>
-
   <br>
