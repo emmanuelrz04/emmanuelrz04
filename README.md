@@ -45,10 +45,10 @@
           <h3>📍 Localização</h3>
           <p>🌎 Recife, Brazil</p>
           <h3>📬 Contato</h3>
-          <p>🔗 <a href="https://portifolio-web-3wpi.onrender.com/">Conheça o meu site</a></p>
-          <p>🔗 <a href="mailto:emmanuelricardo04@gmail.com">emmanuelricardo04@gmail.com</a></p>
-          <p>🔗 <a href="https://github.com/emmanuelrz04">github.com/emmanuelrz04</a></p>
-          <p>🔗 <a href="https://linkedin.com/in/emmanuel-araujo-416203380">linkedin.com/in/emmanuel-araujo</a></p>
+          <p>🔗<a href="https://portifolio-web-3wpi.onrender.com/">Conheça o meu site</a></p>
+          <p>🔗<a href="mailto:emmanuelricardo04@gmail.com">emmanuelricardo04@gmail.com</a></p>
+          <p>🔗<a href="https://github.com/emmanuelrz04">github.com/emmanuelrz04</a></p>
+          <p>🔗<a href="https://linkedin.com/in/emmanuel-araujo-416203380">linkedin.com/in/emmanuel-araujo</a></p>
           <h3>🌎 Idiomas</h3>
           <p>🇺🇸 Inglês: <strong>B2 (Avançado)</strong></p>
           <p>🇫🇷 Francês: <strong>Básico (A1)</strong></p>
