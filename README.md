@@ -26,8 +26,8 @@
           </p>
           <hr style="border: 1px dashed #dee2e6;">
           <h3>🚀 Projeto em destaque</h3>
-          <p><strong>Maid in Dev</strong> — Plataforma full-stack de notícias</p>
-          <p>🔹 Sistema completo de criação, edição e publicação de posts</p>
+          <p><strong>Gerenciamento_de_alunos</strong> — Plataforma full-stack de gerenciamento de faltas</p>
+          <p>🔹 Sistema completo de gerenciamento de faltas, podendo também cadastrar, editar e excluir alunos</p>
           <p>🔹 Painel administrativo com autenticação e controle de acesso</p>
           <p>🔹 Layout responsivo e deploy em produção</p>
           <p>🔹 <a href="https://maindindev.pythonanywhere.com">🌐 Live demo</a> | <a href="https://github.com/emmanuelrz04/PythonWeb">📁 Código fonte</a></p>
