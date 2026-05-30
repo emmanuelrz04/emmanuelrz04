@@ -2,7 +2,7 @@
   <div>
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70">
     <h1>Emmanuel Araujo</h1>
-    <h3>Full-Stack Developer | Python • Flask • Django • SQL </h3>
+    <h3>Data Analyst | Python • SQL • BI • Pandas </h3>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C3E50&center=true&vCenter=true&width=435&lines=Building+secure+web+applications;Passionate+about+clean+code;Always+learning+new+technologies" alt="Typing SVG" />
   </div>
   <br>
@@ -14,15 +14,13 @@
           <h2>📋 Sobre mim</h2>
           <p>
             <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-            <strong>Full-Stack Developer em formação</strong> com foco em Python e Flask.
+            <strong>Data analyst</strong> com foco em Python e Flask.
           </p>
           <p>
             <img src="https://media.giphy.com/media/jSKBmKkio2m0i7pBog/giphy.gif" width="25"> 
             Atualmente no <strong>3º semestre de Análise e Desenvolvimento de Sistemas</strong>.
           </p>
           <p>
-            <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="25"> 
-            <strong>Experiência prática:</strong> Desenvolvimento de aplicações web completas com autenticação, CRUD e deploy.
           </p>
           <hr style="border: 1px dashed #dee2e6;">
           <h3>🚀 Projeto em destaque</h3>
