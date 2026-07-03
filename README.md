@@ -1,99 +1,115 @@
 <div align="center">
-  <div>
-    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70">
-    <h1>Emmanuel Araujo</h1>
 
-  </div>
-  <br>
-  <br>
-  <table style="margin: 0 auto; max-width: 1000px;">
-    <tr>
-      <td style="padding: 20px; vertical-align: top; width: 60%;">
-        <div style="background: #f8f9fa; border-radius: 20px; padding: 25px; border: 2px solid #e9ecef; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
-          <h2>📋 Sobre mim</h2>
-          <p>
-            <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-            <strong>Data analyst</strong> com foco em Python e Flask.
-          </p>
-          <p>
-            <img src="https://media.giphy.com/media/jSKBmKkio2m0i7pBog/giphy.gif" width="25"> 
-            Atualmente no <strong>3º semestre de Análise e Desenvolvimento de Sistemas</strong>.
-          </p>
-          <p>
-          </p>
-          <hr style="border: 1px dashed #dee2e6;">
-          <h3>🚀 Projeto em destaque</h3>
-          <p><strong>Gerenciamento_de_alunos</strong> — Plataforma full-stack de gerenciamento de faltas</p>
-          <p>🔹 Sistema completo de gerenciamento de faltas, podendo também cadastrar, editar e excluir alunos</p>
-          <p>🔹 Painel administrativo com autenticação e controle de acesso</p>
-          <p>🔹 Layout responsivo e deploy em produção</p>
-          <p>🔹 <a href="https://maindindev.pythonanywhere.com">🌐 Live demo</a> | <a href="https://github.com/emmanuelrz04/PythonWeb">📁 Código fonte</a></p>
-          <hr style="border: 1px dashed #dee2e6;">
-          <h3>🏆 Experiências práticas</h3>
-          <p>🥇 <strong>1º lugar no Inov5 – Condomínio Digital 4.0</strong><br>Coliderança de equipe de 5 pessoas, apresentação para profissionais da Lenovo</p>
-          <p>🌍 <strong>NASA Space Apps Challenge 2024</strong><br>Integrante de equipe em hackathon global da NASA, desenvolvendo protótipo funcional para solução de desafio relacionado à estudos sobre vida marinha: "PACE na sala de aula". Experiência em ideação rápida, trabalho em equipe e apresentação de soluções inovadoras</p>
-          <p>💻 <strong>Concluinte do CDD 4.0 – Condomínio Digital 4.0</strong><br>Programa de empregabilidade do Instituto Aliança com apoio da Lenovo Foundation, certificado por instituição de ensino superior, preparando jovens para o mercado de tecnologia</p>
-        </div>
-      </td>
-      <td style="padding: 20px; vertical-align: top; width: 40%;">
-        <div style="background: #f8f9fa; border-radius: 20px; padding: 25px; border: 2px solid #e9ecef;">
-          <img src="https://media.giphy.com/media/IxlnMFrOLVNp6/giphy.webp" alt="Totoro" width="100%" style="border-radius: 15px;">
-          <br><br>
-          <h3>📍 Localização</h3>
-          <p>🌎 Recife, Brazil</p>
-          <h3>📬 Contato</h3>
-          <p>🔗<a href="https://portifolio-web-3wpi.onrender.com/">Conheça o meu site</a></p>
-          <p>🔗<a href="mailto:emmanuelricardo04@gmail.com">emmanuelricardo04@gmail.com</a></p>
-          <p>🔗<a href="https://github.com/emmanuelrz04">github.com/emmanuelrz04</a></p>
-          <p>🔗<a href="https://linkedin.com/in/emmanuel-araujo-416203380">linkedin.com/in/emmanuel-araujo</a></p>
-          <h3>🌎 Idiomas</h3>
-          <p>🇺🇸 Inglês: <strong>B2 (Avançado)</strong></p>
-          <p>🇫🇷 Francês: <strong>Básico (A1)</strong></p>
-          <p>🇩🇪 Alemão: <strong>Básico</strong></p>
-        </div>
-      </td>
-    </tr>
-  </table>
-  <br>
-  <div>
-    <h2>🛠️ Stack Tecnológica</h2>
-    <br>
-    <h3>🐍 Backend</h3>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-    <img src="https://img.shields.io/badge/SQLAlchemy-100000?style=for-the-badge&logo=sqlalchemy&logoColor=white">
-    <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white">
-    <br><br>
-    <h3>🗄️ Banco de Dados</h3>
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <br><br>
-    <h3>🎨 Frontend</h3>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <br><br>
-    <h3>🔧 Ferramentas</h3>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-    <img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logo=pythonanywhere&logoColor=white">
-    <br><br>
-    <h3>📊 Metodologias</h3>
-    <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white">
-    <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=kanban&logoColor=white">
-  </div>
-  <br>
-  <div>
-    <h2>📊 GitHub Analytics</h2>
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelrz04&theme=default&hide_border=true">
-    <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmanuelrz04&theme=github-light&hide_border=true">
-  </div>
-  <br>
-  <div>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  </div>
-  <br>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70">
+
+# Emmanuel Araujo
+
+<img src="https://img.shields.io/badge/Full--Stack_Developer-000000?style=flat-square" alt="Full-Stack Developer">
+<img src="https://img.shields.io/badge/ADS-3%C2%BA_Semestre-000000?style=flat-square" alt="3º Semestre de ADS">
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## Sobre mim
+
+Full-stack com foco em **React** e **TypeScript**.
+
+Atualmente no 3º semestre de Análise e Desenvolvimento de Sistemas.
+
+<br>
+
+### Projeto em destaque
+
+**Gerenciamento_de_alunos** — Plataforma full-stack de gerenciamento de faltas
+
+- Sistema completo de gerenciamento de faltas, com cadastro, edição e exclusão de alunos
+- Painel administrativo com autenticação e controle de acesso
+- Layout responsivo e deploy em produção
+
+[Arquivo do repositório](https://github.com/emmanuelrz04/PythonWeb)
+
+<br>
+
+### Experiências práticas
+
+**1º lugar no Inov5 — Condomínio Digital 4.0**
+Coliderança de equipe de 5 pessoas, apresentação para profissionais da Lenovo
+
+**NASA Space Apps Challenge 2024**
+Integrante de equipe em hackathon global da NASA, desenvolvendo protótipo funcional para o desafio "PACE na sala de aula", relacionado a estudos sobre vida marinha. Experiência em ideação rápida, trabalho em equipe e apresentação de soluções inovadoras
+
+**Concluinte do CDD 4.0 — Condomínio Digital 4.0**
+Programa de empregabilidade do Instituto Aliança com apoio da Lenovo Foundation, certificado por instituição de ensino superior, preparando jovens para o mercado de tecnologia
+
+</td>
+<td width="40%" valign="top">
+
+<img src="https://media.giphy.com/media/IxlnMFrOLVNp6/giphy.webp" alt="Totoro" width="100%">
+
+<br>
+
+### Localização
+
+Recife, Brasil
+
+### Contato
+
+<a href="https://portifolio-web-3wpi.onrender.com/"><img src="https://img.shields.io/badge/Site-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"></a>
+<a href="mailto:emmanuelricardo04@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/emmanuelrz04"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://linkedin.com/in/emmanuel-araujo-416203380"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+### Idiomas
+
+- Inglês — B2 (Avançado)
+- Francês — A1 (Básico)
+- Alemão — Básico
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Stack Tecnológica
+
+### Frontend
+
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white">
+
+### Backend
+
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/SQLAlchemy-000000?style=flat-square&logo=sqlalchemy&logoColor=white">
+<img src="https://img.shields.io/badge/Jinja2-000000?style=flat-square&logo=jinja&logoColor=white">
+
+### Banco de Dados
+
+<img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white">
+
+### Ferramentas
+
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/PythonAnywhere-000000?style=flat-square&logo=pythonanywhere&logoColor=white">
+
+### Metodologias
+
+<img src="https://img.shields.io/badge/Scrum-000000?style=flat-square&logo=scrumalliance&logoColor=white">
+<img src="https://img.shields.io/badge/Kanban-000000?style=flat-square&logo=trello&logoColor=white">
+
+<br>
+
