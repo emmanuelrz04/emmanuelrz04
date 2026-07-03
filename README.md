@@ -31,7 +31,7 @@ Atualmente no 3º semestre de Análise e Desenvolvimento de Sistemas.
 - Painel administrativo com autenticação e controle de acesso
 - Layout responsivo e deploy em produção
 
-[Arquivo do repositório](https://github.com/emmanuelrz04/PythonWeb)
+[Arquivo do repositório](https://github.com/emmanuelrz04/Gerenciamento_de_alunos)
 
 <br>
 
