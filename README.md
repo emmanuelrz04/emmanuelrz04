@@ -18,11 +18,11 @@
 <br>
 
 <!-- Resumo Executivo (Estilo Relatório de Dados) -->
-> 💡 **Resumo Executivo:** Desenvolvedor Full-Stack focado em **React** e **TypeScript**, atualmente no 3º semestre de ADS. Em transição contínua para **Análise de Dados**, unindo lógica de programação com extração de insights para construir aplicações orientadas a dados.
+>  **Resumo Executivo:** Desenvolvedor Full-Stack focado em **React** e **TypeScript**, atualmente no 3º semestre de ADS. Em transição contínua para **Análise de Dados**, unindo lógica de programação com extração de insights para construir aplicações orientadas a dados.
 
 <br>
 
-## 📊 Projetos em Destaque (Case Studies)
+##  Projetos em Destaque (Case Studies)
 
 <table width="100%">
   <tr>
@@ -58,19 +58,19 @@
 
 <br>
 
-## 🏆 Trajetória e Marcos
+##  Trajetória e Marcos
 
 <details>
-<summary><b>📂 Clique para expandir minhas experiências práticas</b></summary>
+<summary><b> Clique para expandir minhas experiências práticas</b></summary>
 <br>
 
-*   **🥇 1º Lugar no Inov5 — Condomínio Digital 4.0**
+*   ** 1º Lugar no Inov5 — Condomínio Digital 4.0**
     *   Liderança técnica e gestora de equipe de 5 pessoas.
     *   Apresentação e defesa de projeto para profissionais e executivos da Lenovo.
-*   **🚀 NASA Space Apps Challenge 2024**
+*   ** NASA Space Apps Challenge 2024**
     *   Atuação focada em estruturação e análise de dados para o desafio "PACE na sala de aula".
     *   Desenvolvimento de protótipo funcional sob alta pressão e tempo limitado.
-*   **🎓 Concluinte do CDD 4.0**
+*   ** Concluinte do CDD 4.0**
     *   Programa de empregabilidade do Instituto Aliança com apoio da Lenovo Foundation.
     *   Certificação por instituição de ensino superior com foco em mercado de tecnologia.
 
@@ -78,7 +78,7 @@
 
 <br>
 
-## ⚙️ Stack Tecnológica & Ferramentas de Dados
+##  Stack Tecnológica & Ferramentas de Dados
 
 <div align="center">
 
@@ -105,7 +105,7 @@
 
 <br>
 
-## 📈 Métricas & Idiomas
+##  Métricas & Idiomas
 
 <div align="center">
   <!-- Cards de Estatística com tema de dados -->
@@ -116,7 +116,7 @@
 <br>
 
 <div align="center">
-  <b>🌐 Perfil de Idiomas:</b><br>
+  <b> Perfil de Idiomas:</b><br>
   <img src="https://img.shields.io/badge/Inglês-B2_Avançado-2ea043?style=flat-square">
   <img src="https://img.shields.io/badge/Francês-A1_Básico-6e7681?style=flat-square">
   <img src="https://img.shields.io/badge/Alemão-Básico-6e7681?style=flat-square">
@@ -124,7 +124,7 @@
 
 <br>
 
-## 📫 Conecte-se Comigo
+##  Conecte-se Comigo
 
 <div align="center">
   <a href="https://portifolio-web-3wpi.onrender.com/"><img src="https://img.shields.io/badge/Meu_Portfólio-4c8bf5?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
