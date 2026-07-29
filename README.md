@@ -18,7 +18,7 @@
 <br>
 
 <!-- Resumo Executivo (Estilo Relatório de Dados) -->
->  **Resumo Executivo:** Desenvolvedor Full-Stack focado em **React** e **TypeScript**, atualmente no 3º semestre de ADS. Em transição contínua para **Análise de Dados**, unindo lógica de programação com extração de insights para construir aplicações orientadas a dados.
+>  **Resumo:** Desenvolvedor Full-Stack focado em **React** e **TypeScript**, atualmente no 3º semestre de ADS. Em transição contínua para **Análise de Dados**, unindo lógica de programação com extração de insights para construir aplicações orientadas a dados.
 
 <br>
 
