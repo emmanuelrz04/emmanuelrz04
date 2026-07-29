@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Título com Estilo "Terminal / Código" -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=Emmanuel+Araujo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Data%20Analysis&descSize=18&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=Emmanuel+Araujo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=%20%20%7C%20Data%20Analysis&descSize=18&descAlignY=55" width="100%" />
 
 <!-- Badges de Status Flutuantes -->
-<img src="https://img.shields.io/badge/ADS_3°_Semestre-000000?style=for-the-badge" alt="ADS">
+<img src="https://img.shields.io/badge/ADS_4°_Semestre-000000?style=for-the-badge" alt="ADS">
 <img src="https://img.shields.io/badge/Focus-Data_&_Code-150458?style=for-the-badge&logo=python&logoColor=white" alt="Focus">
 <img src="https://img.shields.io/badge/Location_Recife,_BR-000000?style=for-the-badge&logo=mapbox&logoColor=white" alt="Location">
 
