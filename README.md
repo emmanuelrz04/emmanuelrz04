@@ -85,7 +85,7 @@
 <!-- Experiência 1 -->
 <div style="margin-bottom: 20px; padding-bottom: 20px; border-bottom: 1px solid #f1f5f9;">
 
-<h3 style="margin-bottom: 5px; color: #0f172a;">Freelancer | Ateliê Jhon Assis</h3>
+<h3 style="margin-bottom: 5px; color: #0f172a;">Estágio | Ateliê Jhon Assis</h3>
 
 <p style="font-size: 14px; color: #64748b; margin-bottom: 10px;"><i>Análise de Dados Operacionais</i></p>
 
