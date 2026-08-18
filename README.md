@@ -17,7 +17,7 @@
 
 <div style="background-color: #f8fafc; border-left: 4px solid #0ea5e9; padding: 15px; margin-bottom: 25px; border-radius: 4px;">
 
-<h2>📖 Sobre Mim</h2>
+<h2> Sobre Mim</h2>
 
 <p>Estudante de Análise e Desenvolvimento de Sistemas (3º semestre), com forte foco em análise de dados, SQL e inteligência de negócio. Possuo experiência prática na construção de consultas analíticas, limpeza de dados e exploração de bases públicas utilizando BigQuery e Python.</p>
 
@@ -31,7 +31,7 @@
 <!-- Coluna 1: Habilidades -->
 <div style="flex: 1 1 300px; background-color: #ffffff; border: 1px solid #e2e8f0; padding: 20px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
 
-<h2>🛠️ Hard Skills</h2>
+<h2> Hard Skills</h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 15px;">
 <span style="background-color: #e0f2fe; color: #0369a1; padding: 5px 10px; border-radius: 15px; font-size: 14px; font-weight: bold;">SQL (BigQuery)</span>
@@ -42,7 +42,7 @@
 <span style="background-color: #e0f2fe; color: #0369a1; padding: 5px 10px; border-radius: 15px; font-size: 14px; font-weight: bold;">Estatística Básica</span>
 </div>
 
-<h2>🧠 Soft Skills & Perfil</h2>
+<h2> Soft Skills & Perfil</h2>
 
 <ul style="line-height: 1.6; color: #475569;">
 <li>Investigação e Reconhecimento de Padrões</li>
@@ -56,12 +56,12 @@
 <!-- Coluna 2: Formação e Certificados -->
 <div style="flex: 1 1 300px; background-color: #ffffff; border: 1px solid #e2e8f0; padding: 20px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
 
-<h2>🎓 Educação</h2>
+<h2> Educação</h2>
 
 <p><b>Análise e Desenvolvimento de Sistemas</b><br>
 <i>Previsão de conclusão: Agosto 2026</i></p>
 
-<h2 style="margin-top: 20px;">📜 Certificações</h2>
+<h2 style="margin-top: 20px;"> Certificações</h2>
 
 <div style="border-left: 2px solid #10b981; padding-left: 10px; margin-bottom: 10px;">
 <b>Projeto com Domínio Digital 4.0</b><br>
@@ -78,7 +78,7 @@
 
 <div style="background-color: #ffffff; border: 1px solid #e2e8f0; padding: 25px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
 
-<h2>💼 Experiência Profissional & Projetos de Dados</h2>
+<h2> Experiência Profissional & Projetos de Dados</h2>
 
 <p style="color: #64748b; font-style: italic; margin-bottom: 20px;">*Mesmo em funções administrativas, sempre atuei como um "analista de dados", estruturando informações para apoiar a gestão.</p>
 
