@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de Desenvolvimento Backend" width="350px"/>
 
-# Emmanuel Ricardo Barros de Araujo
+# Emmanuel Araujo
 
 ### Desenvolvedor Backend Júnior · TypeScript · Node.js · AdonisJS · PostgreSQL
 
